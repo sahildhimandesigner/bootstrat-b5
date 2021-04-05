@@ -1,0 +1,123 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link.active, 
+.navbar-light .navbar-nav .show>.nav-link {
+  font-weight: 500;
+}
+.all-inclusive-section h1 {
+  font-weight: 600;
+  font-size: 42px;
+}
+.h4, h4 {
+  font-weight: 600;
+}
+.add-banner h3 {
+  font-weight: 600;
+}
+.navbar-brand {
+  min-width: 125px;
+}
+.sponser-wrap{
+  background: #f2f5fa;
+}
+.p-grey {
+  color: #95a2ba;
+}
+.car-block {
+  border: 1px solid #D9DADB;
+  min-height: 400px;
+}
+.slider-bg {
+  background: #f2f5fa;
+}
+.add-banner {
+  height: 296px;
+  background-size: cover;
+  display: flex;
+}
+.add-banner h4 {
+  font-size: 30px;
+  line-height: 40px;
+}
+.your-car-01 {
+  background-image: url(https://dev.wagonex.com/hubfs/bannerbg.jpg);  
+}
+.your-car-02 {
+  background-image: url(https://dev.wagonex.com/hubfs/your-term-bg-v2.jpg);
+}
+.btn-w-150 {
+  min-width: 150px;
+}
+.browser-list-section .nav-tabs .nav-item.show .nav-link, 
+.browser-list-section .nav-tabs .nav-link.active {
+  color: #FFF;
+  background-color: #2a9ff4;
+  border: 0;
+}
+.browser-list-section .nav-tabs {
+  border: 0;
+}
+.browser-list-section .nav-tabs{
+  margin-bottom: 15px;
+}
+.browser-list-section .nav-tabs .nav-link {
+  border-radius: 0;
+}
+.browser-list-section .nav-tabs .nav-link {
+  background: #f8f9fa;
+}
+footer {
+  background: #2d2e34;
+  min-height: 200px;
+}
+footer h4 {
+  color: #95a2ba;
+  font-weight: 500;
+  font-size: 15px;
+}
+footer p, footer li, footer a {
+  color: #fff;
+  list-style: none;
+  line-height: 28px;
+  font-weight: 300;
+  font-size: 15px;
+}
+footer li a,
+footer li a:hover,
+footer li a:focus,
+footer li a:active {
+  color: #fff;
+  list-style: none;
+  line-height: 28px;
+  font-weight: 300;
+  font-size: 15px;
+  text-decoration: none;
+}
+.footer-content-section p {
+  line-height: 18px;
+  font-size: 13px;
+  text-align: left;
+  color: #95a2ba;
+}
+a.fb-icon {
+  background-image: url(https://cdn2.hubspot.net/hubfs/4034898/fb.svg);
+}
+a.insta-icon {
+  background-image: url(https://cdn2.hubspot.net/hubfs/4034898/insta.svg);
+}
+a.link-icon {
+  background-image: url(https://cdn2.hubspot.net/hubfs/4034898/linkedIn.svg);
+}
+a.twitter-icon {
+  background-image: url(https://cdn2.hubspot.net/hubfs/4034898/twitter.svg);
+}
+.footer-col-social ul li a {
+  background-repeat: no-repeat;
+  background-position: center left;
+  padding: 0 10px 0 28px;
+  width: 34px;
+  float: left;
+  background-size: contain;
+  height: 34px;
+}
